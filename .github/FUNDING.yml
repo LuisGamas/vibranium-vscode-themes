@@ -1,9 +1,8 @@
-# GitHub Sponsors (if you have it enabled)
+# GitHub Sponsors (Descomenta eliminando el '#' si ya lo activaste)
 # github: LuisGamas
 
-# Buy Me A Coffee
-buymeacoffee: luisgamas
+# Buy Me A Coffee (El campo correcto es buy_me_a_coffee)
+buy_me_a_coffee: luisgamas
 
-# PayPal (using custom URL for donation button with hosted_button_id)
-custom:
-  - "https://www.paypal.com/donate/?hosted_button_id=NYCR5M6QHZ7JC"
+# PayPal (Usando custom para enlaces externos)
+custom: ["https://www.paypal.com/donate/?hosted_button_id=NYCR5M6QHZ7JC"]
