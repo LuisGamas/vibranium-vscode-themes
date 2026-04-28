@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: ❤️ Donation & Support
+    url: https://github.com/sponsors/LuisGamas
+    about: Support the development of Vibranium
+  - name: 💬 Discussion & Questions
+    url: https://github.com/LuisGamas/vibranium-vscode-themes/discussions
+    about: Ask questions or start a discussion

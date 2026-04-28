@@ -1,0 +1,12 @@
+.vscode/**
+.gitignore
+**.ps1
+**.psm1
+**.psd1
+**.py
+tests/**
+images/**
+**/.git/**
+*.md
+!README.md
+!CHANGELOG.md

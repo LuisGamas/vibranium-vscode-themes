@@ -1,0 +1,177 @@
+{
+  "name": "vibranium",
+  "displayName": "Vibranium",
+  "description": "Catppuccin themes with transparency/blur effects for VS Code",
+  "version": "1.0.0",
+  "publisher": "vibranium-themes",
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "extensionKind": ["ui"],
+  "main": "./extension",
+  "activationEvents": ["*"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vibranium Iced Latte (Blur)",
+        "uiTheme": "vs",
+        "path": "./themes/vibranium-iced-latte.json"
+      },
+      {
+        "label": "Vibranium Iced Latte (Blur) [Light]",
+        "uiTheme": "vs",
+        "path": "./themes/vibranium-iced-latte-light.json"
+      },
+      {
+        "label": "Vibranium Iced Latte (Blur) [Heavy]",
+        "uiTheme": "vs",
+        "path": "./themes/vibranium-iced-latte-heavy.json"
+      },
+      {
+        "label": "Vibranium Latte (Blur)",
+        "uiTheme": "vs",
+        "path": "./themes/vibranium-latte.json"
+      },
+      {
+        "label": "Vibranium Latte (Blur) [Light]",
+        "uiTheme": "vs",
+        "path": "./themes/vibranium-latte-light.json"
+      },
+      {
+        "label": "Vibranium Latte (Blur) [Heavy]",
+        "uiTheme": "vs",
+        "path": "./themes/vibranium-latte-heavy.json"
+      },
+      {
+        "label": "Vibranium Frappe (Blur)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vibranium-frappe.json"
+      },
+      {
+        "label": "Vibranium Frappe (Blur) [Light]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vibranium-frappe-light.json"
+      },
+      {
+        "label": "Vibranium Frappe (Blur) [Heavy]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vibranium-frappe-heavy.json"
+      },
+      {
+        "label": "Vibranium Macchiato (Blur)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vibranium-macchiato.json"
+      },
+      {
+        "label": "Vibranium Macchiato (Blur) [Light]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vibranium-macchiato-light.json"
+      },
+      {
+        "label": "Vibranium Macchiato (Blur) [Heavy]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vibranium-macchiato-heavy.json"
+      },
+      {
+        "label": "Vibranium Mocha (Blur)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vibranium-mocha.json"
+      },
+      {
+        "label": "Vibranium Mocha (Blur) [Light]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vibranium-mocha-light.json"
+      },
+      {
+        "label": "Vibranium Mocha (Blur) [Heavy]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vibranium-mocha-heavy.json"
+      },
+      {
+        "label": "Vibranium Espresso (Blur)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vibranium-espresso.json"
+      },
+      {
+        "label": "Vibranium Espresso (Blur) [Light]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vibranium-espresso-light.json"
+      },
+      {
+        "label": "Vibranium Espresso (Blur) [Heavy]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vibranium-espresso-heavy.json"
+      }
+    ],
+    "commands": [
+      {
+        "command": "vibranium.increase",
+        "title": "Vibranium: Increase Transparency"
+      },
+      {
+        "command": "vibranium.decrease",
+        "title": "Vibranium: Decrease Transparency"
+      },
+      {
+        "command": "vibranium.maximize",
+        "title": "Vibranium: Maximize Transparency"
+      },
+      {
+        "command": "vibranium.minimize",
+        "title": "Vibranium: Minimize Transparency"
+      }
+    ],
+    "keybindings": [
+      {
+        "command": "vibranium.increase",
+        "key": "ctrl+alt+z",
+        "mac": "cmd+alt+z"
+      },
+      {
+        "command": "vibranium.decrease",
+        "key": "ctrl+alt+c",
+        "mac": "cmd+alt+c"
+      },
+      {
+        "command": "vibranium.minimize",
+        "key": "ctrl+alt+x",
+        "mac": "cmd+alt+x"
+      }
+    ],
+    "configuration": {
+      "type": "object",
+      "properties": {
+        "vibranium.alpha": {
+          "type": "integer",
+          "default": 220,
+          "description": "Transparency level (1-255). Lower values = more transparent"
+        },
+        "vibranium.step": {
+          "type": "integer",
+          "default": 5,
+          "description": "Increment/decrement step for transparency"
+        },
+        "vibranium.force_sway": {
+          "type": "boolean",
+          "default": false,
+          "description": "Force swaymsg on Linux (for Wayland/Sway)"
+        }
+      }
+    }
+  },
+  "dependencies": {
+    "node-powershell": "^4.0.0"
+  },
+  "categories": ["Themes"],
+  "keywords": ["theme", "catppuccin", "transparency", "blur", "glass"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LuisGamas/vibranium-vscode-themes"
+  },
+  "author": "Luis Gamas",
+  "bugs": {
+    "url": "https://github.com/LuisGamas/vibranium-vscode-themes/issues"
+  },
+  "homepage": "https://github.com/LuisGamas/vibranium-vscode-themes#readme"
+}
