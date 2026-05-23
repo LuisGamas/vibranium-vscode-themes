@@ -1,8 +1,8 @@
 # Vibranium
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/LuisGamas/vibranium-vscode-themes)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![VS Code Marketplace](https://img.shields.io/badge/VS%20Code-Extension-green.svg)](https://marketplace.visualstudio.com/items?itemName=vibranium-themes.vibranium)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge&)](https://github.com/LuisGamas/vibranium-vscode-themes)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&)](https://opensource.org/licenses/MIT)
+[![VS Code Marketplace](https://img.shields.io/badge/VS%20Code-Extension-green.svg?style=for-the-badge&)](https://marketplace.visualstudio.com/items?itemName=vibranium-themes.vibranium)
 
 **Vibranium** is a premium VS Code theme extension that combines the elegant [Catppuccin](https://catppuccin.com/) color palette with dynamic window transparency effects. Inspired by [zed-catppuccin-blur](https://github.com/jenslys/zed-catppuccin-blur) and [GlassIt-VSC](https://github.com/s-nlf-fh/GlassIt-VSC), this extension delivers a visually stunning coding experience with customizable glass-like transparency.
 
