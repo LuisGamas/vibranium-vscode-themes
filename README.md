@@ -1,6 +1,6 @@
 # Vibranium
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge&)](https://github.com/LuisGamas/vibranium-vscode-themes)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge&)](https://github.com/luisgamas/vibranium-vscode-themes)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&)](https://opensource.org/licenses/MIT)
 [![VS Code Marketplace](https://img.shields.io/badge/VS%20Code-Extension-green.svg?style=for-the-badge&)](https://marketplace.visualstudio.com/items?itemName=vibranium-themes.vibranium)
 
@@ -51,7 +51,7 @@ code --install-extension vibranium-1.0.0.vsix
 
 #### Option 3: Build from Source
 ```bash
-git clone https://github.com/LuisGamas/vibranium-vscode-themes.git
+git clone https://github.com/luisgamas/vibranium-vscode-themes.git
 cd vibranium-vscode-themes
 npm install
 code .
@@ -174,7 +174,7 @@ If shortcuts don't work:
 - Disable transparency by setting `vibranium.alpha` to 255
 
 ### Still Having Issues?
-1. Check the [Issues](https://github.com/LuisGamas/vibranium-vscode-themes/issues) page
+1. Check the [Issues](https://github.com/luisgamas/vibranium-vscode-themes/issues) page
 2. Create a new issue with:
    - Your operating system and version
    - VS Code version (`Help > About`)
@@ -186,12 +186,12 @@ If shortcuts don't work:
 Contributions are welcome and appreciated! Here's how you can help:
 
 ### Reporting Bugs
-- Use the [GitHub Issues](https://github.com/LuisGamas/vibranium-vscode-themes/issues/new?template=bug_report.md) page
+- Use the [GitHub Issues](https://github.com/luisgamas/vibranium-vscode-themes/issues/new?template=bug_report.md) page
 - Fill out the bug report template completely
 - Include screenshots and system information
 
 ### Suggesting Features
-- Open an issue with the [Feature Request](https://github.com/LuisGamas/vibranium-vscode-themes/issues/new?template=feature_request.md) template
+- Open an issue with the [Feature Request](https://github.com/luisgamas/vibranium-vscode-themes/issues/new?template=feature_request.md) template
 - Describe the feature and its use case
 
 ### Pull Requests
@@ -201,13 +201,13 @@ Contributions are welcome and appreciated! Here's how you can help:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request using the provided template
 
-Please read our [Contributing Guidelines](https://github.com/LuisGamas/vibranium-vscode-themes/blob/main/CONTRIBUTING.md) before submitting.
+Please read our [Contributing Guidelines](https://github.com/luisgamas/vibranium-vscode-themes/blob/main/CONTRIBUTING.md) before submitting.
 
 ## 📝 Development
 
 ```bash
 # Clone the repository
-git clone https://github.com/LuisGamas/vibranium-vscode-themes.git
+git clone https://github.com/luisgamas/vibranium-vscode-themes.git
 cd vibranium-vscode-themes
 
 # Install dependencies
@@ -229,13 +229,13 @@ If you enjoy using Vibranium Themes, consider supporting its development:
 
 <div align="center">
   <a href="https://sink.gamas.workers.dev/buymeacoffee" style="margin: 0 15px;">
-    <img src="https://raw.githubusercontent.com/LuisGamas/buttons-design/main/buy_me_a_coffe/buy_me_a_coffe_fill.png" width="220" alt="Buy Me a Coffee" />
+    <img src="https://raw.githubusercontent.com/luisgamas/buttons-design/main/buy_me_a_coffe/buy_me_a_coffe_fill.png" width="220" alt="Buy Me a Coffee" />
   </a>
   <a href="https://sink.gamas.workers.dev/paypal-donations" style="margin: 0 15px;">
-    <img src="https://raw.githubusercontent.com/LuisGamas/buttons-design/main/paypal/paypal_fill.png" width="220" alt="Donate via PayPal" />
+    <img src="https://raw.githubusercontent.com/luisgamas/buttons-design/main/paypal/paypal_fill.png" width="220" alt="Donate via PayPal" />
   </a>
   <a href="https://sink.gamas.workers.dev/github-sponsor" style="margin: 0 15px;">
-    <img src="https://raw.githubusercontent.com/LuisGamas/buttons-design/main/github_sponsor/github_sponsor_fill.png" width="220" alt="Sponsor on GitHub" />
+    <img src="https://raw.githubusercontent.com/luisgamas/buttons-design/main/github_sponsor/github_sponsor_fill.png" width="220" alt="Sponsor on GitHub" />
   </a>
 </div>
 
@@ -255,10 +255,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Author:** Luis Gamas  
-**Project Link:** [https://github.com/LuisGamas/vibranium-vscode-themes](https://github.com/LuisGamas/vibranium-vscode-themes)
+**Project Link:** [https://github.com/luisgamas/vibranium-vscode-themes](https://github.com/luisgamas/vibranium-vscode-themes)
 
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/LuisGamas">Luis Gamas</a>
+  Made with ❤️ by <a href="https://github.com/luisgamas">Luis Gamas</a>
 </p>

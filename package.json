@@ -167,11 +167,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LuisGamas/vibranium-vscode-themes"
+    "url": "https://github.com/luisgamas/vibranium-vscode-themes"
   },
   "author": "Luis Gamas",
   "bugs": {
-    "url": "https://github.com/LuisGamas/vibranium-vscode-themes/issues"
+    "url": "https://github.com/luisgamas/vibranium-vscode-themes/issues"
   },
-  "homepage": "https://github.com/LuisGamas/vibranium-vscode-themes#readme"
+  "homepage": "https://github.com/luisgamas/vibranium-vscode-themes#readme"
 }

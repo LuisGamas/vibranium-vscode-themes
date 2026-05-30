@@ -20,7 +20,7 @@ By participating in this project, you agree to abide by our [Code of Conduct](CO
 
 ### 🐛 Reporting Bugs
 
-Before creating bug reports, please check [existing issues](https://github.com/LuisGamas/vibranium-vscode-themes/issues) to avoid duplicates.
+Before creating bug reports, please check [existing issues](https://github.com/luisgamas/vibranium-vscode-themes/issues) to avoid duplicates.
 
 When creating a bug report, use the [Bug Report Template](.github/ISSUE_TEMPLATE/bug_report.md) and include:
 - Clear description of the issue
@@ -214,9 +214,9 @@ For each theme variant, verify:
 ## 💬 Questions?
 
 Feel free to:
-- Open a [Discussion](https://github.com/LuisGamas/vibranium-vscode-themes/discussions)
+- Open a [Discussion](https://github.com/luisgamas/vibranium-vscode-themes/discussions)
 - Ask in issues (use the question label)
-- Contact the maintainer: [Luis Gamas](https://github.com/LuisGamas)
+- Contact the maintainer: [Luis Gamas](https://github.com/luisgamas)
 
 ---
 

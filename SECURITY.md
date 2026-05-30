@@ -8,7 +8,7 @@ The safety and security of **Vibranium** users is important to us. If you discov
 
 **Please do NOT report security vulnerabilities through public GitHub issues.**
 
-Instead, please report them via email to: **luis.gamas@example.com** (replace with your actual email)
+Instead, please report them via email to: **luisgamas00@gmail.com** (replace with your actual email)
 
 You should receive a response within 48 hours. If for some reason you do not, please follow up via email to ensure we received your original message.
 
@@ -88,8 +88,8 @@ Vibranium has minimal security considerations:
 ### 📞 Contact
 
 For security-related questions or concerns:
-- **Email**: luis.gamas@example.com (replace with your actual email)
-- **GitHub**: [@LuisGamas](https://github.com/LuisGamas)
+- **Email**: luisgamas00@gmail.com
+- **GitHub**: [Luis Gamas](https://github.com/luisgamas)
 
 ---
 
